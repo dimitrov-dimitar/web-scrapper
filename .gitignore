@@ -66,6 +66,8 @@ __pypackages__/
 # Environments
 .env
 .venv
+.env.dev
+.env.prod
 env/
 venv/
 ENV/
