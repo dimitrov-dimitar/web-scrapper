@@ -1,0 +1,1267 @@
+2022/05/30 01:01:20 INFO  : 2022_dev.xlsx: Copied (new)
+2022/05/30 01:01:20 INFO  : 
+Transferred:   	    7.413 KiB / 7.413 KiB, 100%, 7.405 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.9s
+
+2022/05/30 01:10:54 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/05/30 01:10:54 INFO  : 
+Transferred:   	    7.595 KiB / 7.595 KiB, 100%, 7.591 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+2022/05/30 01:13:59 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/05/30 01:13:59 INFO  : 
+Transferred:   	    7.470 KiB / 7.470 KiB, 100%, 7.466 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+30.05.2022 01:13:44
+Web Scrapping Successful
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 2357, Old Price: 2000
+Price difference: +357
+Nirvana Dolce Vita - Current Price: 2219, Old Price: 2500
+Price difference: -281
+
+Mail sent!
+----------------------------------------------------------------------
+2022/05/30 01:18:43 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/05/30 01:18:43 INFO  : 
+Transferred:   	    7.470 KiB / 7.470 KiB, 100%, 7.467 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+30.05.2022 01:18:28
+Web Scrapping Successful
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 2357, Old Price: 2000
+Price difference: +357
+Nirvana Dolce Vita - Current Price: 2219, Old Price: 2500
+Price difference: -281
+
+Mail sent!
+----------------------------------------------------------------------
+2022/05/30 11:17:54 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/05/30 11:17:54 INFO  : 
+Transferred:   	   29.879 KiB / 29.879 KiB, 100%, 7.467 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         5.8s
+
+30.05.2022 11:17:36
+Web Scrapping Successful
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 2357, Old Price: 2000
+Price difference: +357
+Nirvana Dolce Vita - Current Price: 2219, Old Price: 2500
+Price difference: -281
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/02 11:16:48 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/02 11:16:48 INFO  : 
+Transferred:   	    7.628 KiB / 7.628 KiB, 100%, 7.627 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.8s
+
+02.06.2022 11:16:37
+Web Scrapping Successful
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 2675€, Old Price: 2357€
+Price difference: +318€
+Nirvana Dolce Vita - Current Price: 2515€, Old Price: 2219€
+Price difference: +296€
+Voyage Belek - Current Price: 2815€, Old Price: 3067€
+Price difference: -252€
+IC Hotels Green Palace - Current Price: 2483€, Old Price: 2377€
+Price difference: +106€
+Sueno Hotels Deluxe Belek - Current Price: 3401€, Old Price: 2687€
+Price difference: +714€
+Alva Donna Exclusive Hotel Belek - Current Price: 2113€, Old Price: 1955€
+Price difference: +158€
+Barut Lara - Current Price: 3641€, Old Price: 3333€
+Price difference: +308€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/02 11:40:38 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/02 11:40:38 INFO  : 
+Transferred:   	    7.781 KiB / 7.781 KiB, 100%, 7.777 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+02.06.2022 11:40:27
+Web Scrapping Successful
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 3159€, Old Price: 2675€
+Price difference: +484€
+Nirvana Dolce Vita - Current Price: 2917€, Old Price: 2515€
+Price difference: +402€
+Papillon Belvil - Current Price: 2483€, Old Price: 2193€
+Price difference: +290€
+Voyage Belek - Current Price: 3963€, Old Price: 2815€
+Price difference: +1148€
+Voyage Sorgun - Current Price: 2545€, Old Price: 2463€
+Price difference: +82€
+IC Hotels Green Palace - Current Price: 2675€, Old Price: 2483€
+Price difference: +192€
+Selectum Luxury Resort - Current Price: 3450€, Old Price: 3384€
+Price difference: +66€
+Sueno Hotels Deluxe Belek - Current Price: 3745€, Old Price: 3401€
+Price difference: +344€
+Alva Donna Exclusive Hotel Belek - Current Price: 2435€, Old Price: 2113€
+Price difference: +322€
+Delphin BE Grand Resort - Current Price: 3191€, Old Price: 2541€
+Price difference: +650€
+Barut Lara - Current Price: 4173€, Old Price: 3641€
+Price difference: +532€
+Kaya Palazzo Golf Resort - Current Price: 3021€, Old Price: 2905€
+Price difference: +116€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/02 11:43:56 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/02 11:43:56 INFO  : 
+Transferred:   	    7.910 KiB / 7.910 KiB, 100%, 7.908 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         5.7s
+
+02.06.2022 11:43:43
+Web Scrapping Successful
+No price change
+----------------------------------------------------------------------
+02.06.2022 11:49:32
+Web Scrapping Successful
+2022/06/02 11:52:59 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/02 11:52:59 INFO  : 
+Transferred:   	    7.937 KiB / 7.937 KiB, 100%, 7.936 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         1.9s
+
+02.06.2022 11:52:50
+Web Scrapping Successful
+Rest day from 17.06.2022
+No price change
+----------------------------------------------------------------------
+2022/06/02 11:54:30 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/02 11:54:30 INFO  : 
+Transferred:   	    7.812 KiB / 7.812 KiB, 100%, 7.806 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+02.06.2022 11:54:19
+Web Scrapping Successful
+Rest day from 17.06.2022
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 3159€, Old Price: 2675€
+Price difference: +484€
+Nirvana Dolce Vita - Current Price: 2917€, Old Price: 2515€
+Price difference: +402€
+Papillon Belvil - Current Price: 2483€, Old Price: 2193€
+Price difference: +290€
+Voyage Belek - Current Price: 3963€, Old Price: 2815€
+Price difference: +1148€
+Voyage Sorgun - Current Price: 2545€, Old Price: 2463€
+Price difference: +82€
+IC Hotels Green Palace - Current Price: 2675€, Old Price: 2483€
+Price difference: +192€
+Selectum Luxury Resort - Current Price: 3450€, Old Price: 3384€
+Price difference: +66€
+Sueno Hotels Deluxe Belek - Current Price: 3745€, Old Price: 3401€
+Price difference: +344€
+Alva Donna Exclusive Hotel Belek - Current Price: 2435€, Old Price: 2113€
+Price difference: +322€
+Delphin BE Grand Resort - Current Price: 3191€, Old Price: 2541€
+Price difference: +650€
+Barut Lara - Current Price: 4173€, Old Price: 3641€
+Price difference: +532€
+Kaya Palazzo Golf Resort - Current Price: 3021€, Old Price: 2905€
+Price difference: +116€
+
+Mail sent!
+----------------------------------------------------------------------
+02.06.2022 12:00:31
+Web Scrapping Successful
+2022/06/02 12:09:39 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/02 12:09:39 INFO  : 
+Transferred:   	    7.813 KiB / 7.813 KiB, 100%, 1.562 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:        10.6s
+
+02.06.2022 12:09:20
+Web Scrapping Successful
+Information for rest day - 17.06.2022
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 3159€, Old Price: 2675€
+Price difference: +484€
+Nirvana Dolce Vita - Current Price: 2917€, Old Price: 2515€
+Price difference: +402€
+Papillon Belvil - Current Price: 2483€, Old Price: 2193€
+Price difference: +290€
+Voyage Belek - Current Price: 3963€, Old Price: 2815€
+Price difference: +1148€
+Voyage Sorgun - Current Price: 2545€, Old Price: 2463€
+Price difference: +82€
+IC Hotels Green Palace - Current Price: 2675€, Old Price: 2483€
+Price difference: +192€
+Selectum Luxury Resort - Current Price: 3450€, Old Price: 3384€
+Price difference: +66€
+Sueno Hotels Deluxe Belek - Current Price: 3745€, Old Price: 3401€
+Price difference: +344€
+Alva Donna Exclusive Hotel Belek - Current Price: 2435€, Old Price: 2113€
+Price difference: +322€
+Delphin BE Grand Resort - Current Price: 3191€, Old Price: 2541€
+Price difference: +650€
+Barut Lara - Current Price: 4173€, Old Price: 3641€
+Price difference: +532€
+Kaya Palazzo Golf Resort - Current Price: 3021€, Old Price: 2905€
+Price difference: +116€
+
+Mail sent!
+----------------------------------------------------------------------
+02.06.2022 12:17:50
+Web Scrapping Successful
+2022/06/02 12:19:51 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/02 12:19:51 INFO  : 
+Transferred:   	    7.812 KiB / 7.812 KiB, 100%, 7.810 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+02.06.2022 12:19:40
+Web Scrapping Successful
+Information for rest day - 17.06.2022
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 3159€, Old Price: 2675€
+Price difference: +484€
+Nirvana Dolce Vita - Current Price: 2917€, Old Price: 2515€
+Price difference: +402€
+Papillon Belvil - Current Price: 2483€, Old Price: 2193€
+Price difference: +290€
+Voyage Belek - Current Price: 3963€, Old Price: 2815€
+Price difference: +1148€
+Voyage Sorgun - Current Price: 2545€, Old Price: 2463€
+Price difference: +82€
+IC Hotels Green Palace - Current Price: 2675€, Old Price: 2483€
+Price difference: +192€
+Selectum Luxury Resort - Current Price: 3450€, Old Price: 3384€
+Price difference: +66€
+Sueno Hotels Deluxe Belek - Current Price: 3745€, Old Price: 3401€
+Price difference: +344€
+Alva Donna Exclusive Hotel Belek - Current Price: 2435€, Old Price: 2113€
+Price difference: +322€
+Delphin BE Grand Resort - Current Price: 3191€, Old Price: 2541€
+Price difference: +650€
+Barut Lara - Current Price: 4173€, Old Price: 3641€
+Price difference: +532€
+Kaya Palazzo Golf Resort - Current Price: 3021€, Old Price: 2905€
+Price difference: +116€
+
+Mail sent!
+----------------------------------------------------------------------
+05.06.2022 11:46:07
+Web Scrapping Successful
+Information for rest day - 17.06.2022
+2022/06/05 11:51:30 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/05 11:51:30 INFO  : 
+Transferred:   	    8.191 KiB / 8.191 KiB, 100%, 8.190 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.8s
+
+05.06.2022 11:51:09
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+Nirvana Cosmopolitan - Current Price: 2675€, Old Price: 3159€
+Price difference: -484€
+Nirvana Dolce Vita - Current Price: 2515€, Old Price: 2917€
+Price difference: -402€
+Papillon Belvil - Current Price: 2193€, Old Price: 2483€
+Price difference: -290€
+Voyage Belek - Current Price: 2815€, Old Price: 3963€
+Price difference: -1148€
+Voyage Sorgun - Current Price: 2463€, Old Price: 2545€
+Price difference: -82€
+IC Hotels Green Palace - Current Price: 2483€, Old Price: 2675€
+Price difference: -192€
+Selectum Luxury Resort - Current Price: 3384€, Old Price: 3450€
+Price difference: -66€
+Sueno Hotels Deluxe Belek - Current Price: 2831€, Old Price: 3107€
+Price difference: -276€
+Alva Donna Exclusive Hotel Belek - Current Price: 2113€, Old Price: 2435€
+Price difference: -322€
+Delphin BE Grand Resort - Current Price: 2541€, Old Price: 3191€
+Price difference: -650€
+Barut Lara - Current Price: 3641€, Old Price: 4173€
+Price difference: -532€
+Kaya Palazzo Golf Resort - Current Price: 2905€, Old Price: 3021€
+Price difference: -116€
+GURAL PREMIER BELEK - Current Price: 1865€, Old Price: 2305€
+Price difference: -440€
+
+Mail sent!
+----------------------------------------------------------------------
+05.06.2022 20:43:35
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+05.06.2022 20:46:00
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+2022/06/05 20:47:53 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/05 20:47:53 INFO  : 
+Transferred:   	    8.580 KiB / 8.580 KiB, 100%, 8.578 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.7s
+
+05.06.2022 20:47:40
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+on 0: 05.06.2022 22:54:55
+on 0: Web Scrapping Successful
+on 0: Information for rest day - 23.09.2022
+on 0: No price change
+2022/06/05 22:55:07 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/05 22:55:07 INFO  : 
+Transferred:   	    8.747 KiB / 8.747 KiB, 100%, 8.744 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.8s
+
+on 0: ----------------------------------------------------------------------
+|████████████████████████████████████████| (!) 1 in 12.1s (0.08/s) 
+on 15: 05.06.2022 22:56:16
+on 15: Web Scrapping Successful
+on 15: Information for rest day - 23.09.2022
+on 15: No price change
+2022/06/05 22:56:27 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/05 22:56:27 INFO  : 
+Transferred:   	    8.912 KiB / 8.912 KiB, 100%, 8.909 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+on 15: ----------------------------------------------------------------------
+|████████████████████████████████████████| (!) 15 in 11.0s (1.37/s) 
+2022/06/05 23:07:03 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/05 23:07:03 INFO  : 
+Transferred:   	    8.581 KiB / 8.581 KiB, 100%, 8.572 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+Transferred:   	   13.356 KiB / 13.356 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.9s
+Transferring:
+ *                                   log_dev.txt:100% /13.356Ki, 0/s, -Transferred:   	   13.356 KiB / 13.356 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.4s
+Transferring:
+ *                                   log_dev.txt:100% /13.356Ki, 0/s, -
+2022-06-05 23:07:04 ERROR : log_dev.txt: corrupted on transfer: md5 hash differ "fefaa720e78b88b4066199bd62195e70" vs "4285f75e453c1f6e6ac50a3e8d85c1a4"
+Transferred:   	   13.356 KiB / 13.356 KiB, 100%, 13.354 KiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         1.8s
+Transferring:
+ *                                   log_dev.txt:100% /13.356Ki, 13.354Ki/s, 0sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 13.354 KiB/s, ETA 0s
+Errors:                 1 (retrying may help)
+Transferred:            0 / 1, 0%
+Elapsed time:         1.9s
+Transferring:
+ *                                   log_dev.txt:100% /13.356Ki, 13.354Ki/s, 0sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 13.354 KiB/s, ETA 0s
+Errors:                 1 (retrying may help)
+Transferred:            0 / 1, 0%
+Elapsed time:         2.4s
+Transferring:
+ *                                   log_dev.txt:100% /13.356Ki, 13.354Ki/s, 0s
+2022-06-05 23:07:05 ERROR : Attempt 1/3 failed with 1 errors and: corrupted on transfer: md5 hash differ "fefaa720e78b88b4066199bd62195e70" vs "4285f75e453c1f6e6ac50a3e8d85c1a4"
+Transferred:   	   13.356 KiB / 13.356 KiB, 100%, 13.354 KiB/s, ETA 0s
+Errors:                 1 (retrying may help)
+Elapsed time:         2.6sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 6.677 KiB/s, ETA 0s
+Elapsed time:         2.9sTransferred:   	   13.356 KiB / 28.335 KiB, 47%, 6.677 KiB/s, ETA 2s
+Transferred:            0 / 1, 0%
+Elapsed time:         3.4s
+Transferring:
+ *                                   log_dev.txt:  0% /14.979Ki, 0/s, -
+2022-06-05 23:07:06 ERROR : log_dev.txt: Failed to copy: Post "https://www.googleapis.com/upload/drive/v3/files?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 15338 to 15649)
+Transferred:   	   13.356 KiB / 28.335 KiB, 47%, 6.677 KiB/s, ETA 2s
+Errors:                 1 (retrying may help)
+Transferred:            0 / 1, 0%
+Elapsed time:         3.4s
+Transferring:
+ *                                   log_dev.txt:  0% /14.979Ki, 0/s, -
+2022-06-05 23:07:06 ERROR : Attempt 2/3 failed with 1 errors and: Post "https://www.googleapis.com/upload/drive/v3/files?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 15338 to 15649)
+Transferred:   	   13.356 KiB / 13.356 KiB, 100%, 6.677 KiB/s, ETA 0s
+Errors:                 1 (retrying may help)
+Elapsed time:         3.4sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 4.451 KiB/s, ETA 0s
+Elapsed time:         3.9sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 4.451 KiB/s, ETA 0s
+Elapsed time:         4.4sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 3.338 KiB/s, ETA 0s
+Elapsed time:         4.9sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 3.338 KiB/s, ETA 0s
+Elapsed time:         5.4sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 2.670 KiB/s, ETA 0s
+Elapsed time:         5.9sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 2.670 KiB/s, ETA 0s
+Elapsed time:         6.4sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 2.226 KiB/s, ETA 0s
+Elapsed time:         6.9sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 2.226 KiB/s, ETA 0s
+Elapsed time:         7.4sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 1.907 KiB/s, ETA 0s
+Elapsed time:         7.9sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 1.907 KiB/s, ETA 0s
+Elapsed time:         8.4sTransferred:   	   13.356 KiB / 29.973 KiB, 45%, 1.669 KiB/s, ETA 9s
+Transferred:            0 / 1, 0%
+Elapsed time:         8.9s
+Transferring:
+ *                                   log_dev.txt:  0% /16.616Ki, 0/s, -
+2022-06-05 23:07:12 ERROR : log_dev.txt: Failed to copy: Post "https://www.googleapis.com/upload/drive/v3/files?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 17015 to 18190)
+Transferred:   	   13.356 KiB / 29.973 KiB, 45%, 1.669 KiB/s, ETA 9s
+Errors:                 1 (retrying may help)
+Transferred:            0 / 1, 0%
+Elapsed time:         9.1s
+Transferring:
+ *                                   log_dev.txt:  0% /16.616Ki, 0/s, -
+2022-06-05 23:07:12 ERROR : Attempt 3/3 failed with 1 errors and: Post "https://www.googleapis.com/upload/drive/v3/files?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 17015 to 18190)
+Transferred:   	   13.356 KiB / 13.356 KiB, 100%, 1.669 KiB/s, ETA 0s
+Errors:                 1 (retrying may help)
+Elapsed time:         9.1sTransferred:   	   13.356 KiB / 13.356 KiB, 100%, 1.669 KiB/s, ETA 0s
+Errors:                 1 (retrying may help)
+Elapsed time:         9.1s
+05.06.2022 23:06:51
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/05 23:08:42 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/05 23:08:42 INFO  : 
+Transferred:   	    8.745 KiB / 8.745 KiB, 100%, 8.745 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+05.06.2022 23:08:31
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/05 23:54:39 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/05 23:54:39 INFO  : 
+Transferred:   	    8.910 KiB / 8.910 KiB, 100%, 8.908 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+05.06.2022 23:54:28
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/06 00:24:19 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/06 00:24:19 INFO  : 
+Transferred:   	    9.098 KiB / 9.098 KiB, 100%, 9.096 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+06.06.2022 00:24:07
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/13 19:03:35 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/13 19:03:35 INFO  : 
+Transferred:   	    9.276 KiB / 9.276 KiB, 100%, 9.275 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.7s
+
+13.06.2022 19:03:20
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. Nirvana Cosmopolitan - Current Price: 2145€, Old Price: 0€
+Price difference: +2145€
+2. Nirvana Dolce Vita - Current Price: 2023€, Old Price: 0€
+Price difference: +2023€
+3. Papillon Belvil - Current Price: 2193€, Old Price: 0€
+Price difference: +2193€
+4. Kaya Palazzo Golf Resort - Current Price: 3043€, Old Price: 2905€
+Price difference: +138€
+5. GURAL PREMIER BELEK - Current Price: 2077€, Old Price: 1865€
+Price difference: +212€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/13 19:05:39 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/13 19:05:39 INFO  : 
+Transferred:   	    9.434 KiB / 9.434 KiB, 100%, 9.431 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+13.06.2022 19:05:26
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/13 19:11:40 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/13 19:11:40 INFO  : 
+Transferred:   	    9.599 KiB / 9.599 KiB, 100%, 9.597 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+13.06.2022 19:11:26
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. PALOMA GRIDA VILLAGE - Current Price: 1999€, Old Price: 3200€
+Price difference: -1201€
+2. SUSESI LUXURY RESORT - Current Price: 2177€, Old Price: 3200€
+Price difference: -1023€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/13 19:13:53 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/13 19:13:53 INFO  : 
+Transferred:   	    9.750 KiB / 9.750 KiB, 100%, 9.748 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+13.06.2022 19:13:40
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/14 11:04:42 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/14 11:04:42 INFO  : 
+Transferred:   	    9.902 KiB / 9.902 KiB, 100%, 9.900 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+14.06.2022 11:04:30
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/14 11:12:25 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/14 11:12:25 INFO  : 
+Transferred:   	   10.051 KiB / 10.051 KiB, 100%, 10.050 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+14.06.2022 11:12:13
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/14 11:13:49 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/14 11:13:49 INFO  : 
+Transferred:   	   10.226 KiB / 10.226 KiB, 100%, 10.223 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.0s
+
+14.06.2022 11:13:32
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. Nirvana Cosmopolitan - Current Price: 2145€, Old Price: 2000€
+Price difference: +145€
+2. Nirvana Dolce Vita - Current Price: 2023€, Old Price: 1800€
+Price difference: +223€
+3. Papillon Belvil - Current Price: 2193€, Old Price: 3200€
+Price difference: -1007€
+4. Voyage Belek - Current Price: 2815€, Old Price: 3200€
+Price difference: -385€
+5. Voyage Sorgun - Current Price: 2463€, Old Price: 2000€
+Price difference: +463€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/14 11:15:57 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/14 11:15:57 INFO  : 
+Transferred:   	   10.224 KiB / 10.224 KiB, 100%, 10.220 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.0s
+
+14.06.2022 11:15:44
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. Nirvana Cosmopolitan - Current Price: 2145€, Old Price: 2000€
+Price difference: +145€
+2. Nirvana Dolce Vita - Current Price: 2023€, Old Price: 1800€
+Price difference: +223€
+3. Papillon Belvil - Current Price: 2193€, Old Price: 3200€
+Price difference: -1007€
+4. Voyage Belek - Current Price: 2815€, Old Price: 3200€
+Price difference: -385€
+5. Voyage Sorgun - Current Price: 2463€, Old Price: 2000€
+Price difference: +463€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/14 11:43:02 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/14 11:43:02 INFO  : 
+Transferred:   	   20.752 KiB / 20.752 KiB, 100%, 20.740 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.6s
+
+14.06.2022 11:42:49
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/20 11:30:56 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 11:30:56 INFO  : 
+Transferred:   	   10.553 KiB / 10.553 KiB, 100%, 10.552 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         6.5s
+
+20.06.2022 11:30:14
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. Nirvana Dolce Vita - Current Price: 2515€, Old Price: 2023€
+Price difference: +492€
+2. Voyage Belek - Current Price: 3067€, Old Price: 2815€
+Price difference: +252€
+3. Sueno Hotels Deluxe Belek - Current Price: 2973€, Old Price: 2831€
+Price difference: +142€
+4. Kaya Palazzo Golf Resort - Current Price: 2905€, Old Price: 3043€
+Price difference: -138€
+5. PALOMA GRIDA VILLAGE - Current Price: 1927€, Old Price: 1999€
+Price difference: -72€
+6. SUSESI LUXURY RESORT - Current Price: 2245€, Old Price: 2177€
+Price difference: +68€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/20 11:39:50 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 11:39:50 INFO  : 
+Transferred:   	   10.707 KiB / 10.707 KiB, 100%, 10.705 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+20.06.2022 11:39:35
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/20 12:44:59 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 12:44:59 INFO  : 
+Transferred:   	   10.862 KiB / 10.862 KiB, 100%, 10.851 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.6s
+
+20.06.2022 12:44:44
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/20 12:46:05 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 12:46:05 INFO  : 
+Transferred:   	   11.031 KiB / 11.031 KiB, 100%, 11.019 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+20.06.2022 12:45:50
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. PALOMA GRIDA VILLAGE - Current Price: 1927€, Old Price: 1000€
+Price difference: +927€
+2. SUSESI LUXURY RESORT - Current Price: 2245€, Old Price: 3200€
+Price difference: -955€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/20 13:05:17 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 13:05:17 INFO  : 
+Transferred:   	   11.178 KiB / 11.178 KiB, 100%, 11.176 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+20.06.2022 13:04:56
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+20.06.2022 16:41:20
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+2022/06/20 16:44:00 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 16:44:00 INFO  : 
+Transferred:   	   11.577 KiB / 11.577 KiB, 100%, 11.575 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.9s
+
+20.06.2022 16:43:38
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+20.06.2022 17:11:09
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+2022/06/20 18:47:21 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 18:47:21 INFO  : 
+Transferred:   	   11.903 KiB / 11.903 KiB, 100%, 11.892 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+20.06.2022 18:46:59
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/20 18:50:59 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 18:50:59 INFO  : 
+Transferred:   	   12.065 KiB / 12.065 KiB, 100%, 12.063 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         4.5s
+
+20.06.2022 18:50:36
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/20 18:59:28 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 18:59:28 INFO  : 
+Transferred:   	   12.214 KiB / 12.214 KiB, 100%, 12.211 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+20.06.2022 18:59:07
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/20 19:05:05 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 19:05:05 INFO  : 
+Transferred:   	   12.379 KiB / 12.379 KiB, 100%, 4.127 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         5.5s
+
+20.06.2022 19:04:40
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+20.06.2022 19:05:59
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. PALOMA GRIDA VILLAGE - Current Price: 1927€, Old Price: 0€
+Price difference: +1927€
+2. SUSESI LUXURY RESORT - Current Price: 2245€, Old Price: 4000€
+Price difference: -1755€
+
+2022/06/20 19:13:02 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 19:13:02 INFO  : 
+Transferred:   	   12.719 KiB / 12.719 KiB, 100%, 12.718 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+20.06.2022 19:12:41
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/20 19:15:16 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 19:15:16 INFO  : 
+Transferred:   	   12.884 KiB / 12.884 KiB, 100%, 12.882 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         6.4s
+
+20.06.2022 19:14:49
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. PALOMA GRIDA VILLAGE - Current Price: 1927€, Old Price: 0€
+Price difference: +1927€
+2. SUSESI LUXURY RESORT - Current Price: 2245€, Old Price: 4000€
+Price difference: -1755€
+
+Mail sent!
+----------------------------------------------------------------------
+20.06.2022 19:39:44
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+20.06.2022 19:41:05
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. PALOMA GRIDA VILLAGE - Current Price: 1927€, Old Price: 0€
+Price difference: +1927€
+2. SUSESI LUXURY RESORT - Current Price: 2245€, Old Price: 4000€
+Price difference: -1755€
+
+2022/06/20 19:45:45 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 19:45:45 INFO  : 
+Transferred:   	   13.040 KiB / 13.040 KiB, 100%, 13.038 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+20.06.2022 19:45:20
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. PALOMA GRIDA VILLAGE - Current Price: 1927€, Old Price: 0€
+Price difference: +1927€
+2. SUSESI LUXURY RESORT - Current Price: 2245€, Old Price: 4000€
+Price difference: -1755€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/20 19:46:30 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/20 19:46:30 INFO  : 
+Transferred:   	   13.202 KiB / 13.202 KiB, 100%, 13.198 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+20.06.2022 19:46:08
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+28.06.2022 16:20:18
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+2022/06/30 11:25:57 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/30 11:25:57 INFO  : 
+Transferred:   	   13.531 KiB / 13.531 KiB, 100%, 13.529 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.7s
+
+30.06.2022 11:25:14
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. Nirvana Cosmopolitan - Current Price: 2675€, Old Price: 2145€
+Price difference: +530€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/06/30 11:35:56 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/30 11:35:56 INFO  : 
+Transferred:   	   13.688 KiB / 13.688 KiB, 100%, 13.685 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+30.06.2022 11:35:42
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/30 13:14:41 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/30 13:14:41 INFO  : 
+Transferred:   	   13.846 KiB / 13.846 KiB, 100%, 13.843 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.6s
+
+30.06.2022 13:14:03
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/30 13:16:33 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/30 13:16:33 INFO  : 
+Transferred:   	   14.003 KiB / 14.003 KiB, 100%, 13.999 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+30.06.2022 13:16:19
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/30 13:34:01 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/30 13:34:01 INFO  : 
+Transferred:   	   14.159 KiB / 14.159 KiB, 100%, 14.152 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+30.06.2022 13:33:23
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/30 13:36:26 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/30 13:36:26 INFO  : 
+Transferred:   	   14.314 KiB / 14.314 KiB, 100%, 14.311 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+30.06.2022 13:35:47
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/06/30 13:39:13 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/06/30 13:39:13 INFO  : 
+Transferred:   	   43.412 KiB / 43.412 KiB, 100%, 14.465 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         3.9s
+
+30.06.2022 13:38:39
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/06 23:39:41 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/06 23:39:41 INFO  : 
+Transferred:   	   14.758 KiB / 14.758 KiB, 100%, 14.756 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.9s
+
+06.07.2022 23:39:15
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+Price Alert Detected
+1. Nirvana Cosmopolitan - Current Price: 2003€, Old Price: 2675€
+Price difference: -672€
+2. Nirvana Dolce Vita - Current Price: 2585€, Old Price: 2515€
+Price difference: +70€
+3. Papillon Belvil - Current Price: 2263€, Old Price: 2193€
+Price difference: +70€
+4. Voyage Belek - Current Price: 3137€, Old Price: 3067€
+Price difference: +70€
+5. Voyage Sorgun - Current Price: 2495€, Old Price: 2425€
+Price difference: +70€
+6. IC Hotels Green Palace - Current Price: 2555€, Old Price: 2483€
+Price difference: +72€
+7. Selectum Luxury Resort - Current Price: 3456€, Old Price: 3384€
+Price difference: +72€
+8. Sueno Hotels Deluxe Belek - Current Price: 3471€, Old Price: 3401€
+Price difference: +70€
+9. Alva Donna Exclusive Hotel Belek - Current Price: 2183€, Old Price: 2113€
+Price difference: +70€
+10. Delphin BE Grand Resort - Current Price: 2781€, Old Price: 2541€
+Price difference: +240€
+11. Barut Lara - Current Price: 3713€, Old Price: 3641€
+Price difference: +72€
+12. Kaya Palazzo Golf Resort - Current Price: 3253€, Old Price: 3043€
+Price difference: +210€
+13. GURAL PREMIER BELEK - Current Price: 2263€, Old Price: 2193€
+Price difference: +70€
+14. PALOMA GRIDA VILLAGE - Current Price: 1997€, Old Price: 1927€
+Price difference: +70€
+15. SUSESI LUXURY RESORT - Current Price: 2349€, Old Price: 2245€
+Price difference: +104€
+16. GURAL PREMIER TEKIROVA - Current Price: 2371€, Old Price: 2299€
+Price difference: +72€
+
+Mail sent!
+----------------------------------------------------------------------
+2022/07/06 23:43:42 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/06 23:43:42 INFO  : 
+Transferred:   	   14.939 KiB / 14.939 KiB, 100%, 14.937 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+06.07.2022 23:43:19
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/06 23:47:08 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/06 23:47:08 INFO  : 
+Transferred:   	   15.186 KiB / 15.186 KiB, 100%, 15.175 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+06.07.2022 23:46:48
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/06 23:48:19 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/06 23:48:19 INFO  : 
+Transferred:   	   15.383 KiB / 15.383 KiB, 100%, 15.380 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+06.07.2022 23:47:58
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/06 23:50:47 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/06 23:50:47 INFO  : 
+Transferred:   	   15.592 KiB / 15.592 KiB, 100%, 15.589 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+06.07.2022 23:50:27
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/06 23:54:44 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/06 23:54:44 INFO  : 
+Transferred:   	   15.842 KiB / 15.842 KiB, 100%, 15.839 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.0s
+
+06.07.2022 23:54:20
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/06 23:59:04 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/06 23:59:04 INFO  : 
+Transferred:   	   16.104 KiB / 16.104 KiB, 100%, 16.102 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+06.07.2022 23:58:42
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 00:02:24 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 00:02:24 INFO  : 
+Transferred:   	   16.481 KiB / 16.481 KiB, 100%, 16.478 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+07.07.2022 00:02:01
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 00:06:36 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 00:06:36 INFO  : 
+Transferred:   	   16.725 KiB / 16.725 KiB, 100%, 16.723 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+07.07.2022 00:06:14
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 09:40:00 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 09:40:00 INFO  : 
+Transferred:   	   16.953 KiB / 16.953 KiB, 100%, 16.950 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.7s
+
+07.07.2022 09:39:36
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 09:42:42 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 09:42:42 INFO  : 
+Transferred:   	   17.182 KiB / 17.182 KiB, 100%, 17.178 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+07.07.2022 09:42:20
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 09:43:09 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 09:43:09 INFO  : 
+Transferred:   	   17.409 KiB / 17.409 KiB, 100%, 17.404 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+07.07.2022 09:42:47
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 09:57:07 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 09:57:07 INFO  : 
+Transferred:   	   17.636 KiB / 17.636 KiB, 100%, 17.617 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+07.07.2022 09:56:46
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 09:58:59 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 09:58:59 INFO  : 
+Transferred:   	   17.861 KiB / 17.861 KiB, 100%, 17.857 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.0s
+
+07.07.2022 09:58:38
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 10:03:14 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 10:03:14 INFO  : 
+Transferred:   	   18.087 KiB / 18.087 KiB, 100%, 18.081 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         5.5s
+
+07.07.2022 10:02:50
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 10:38:36 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 10:38:36 INFO  : 
+Transferred:   	   18.313 KiB / 18.313 KiB, 100%, 18.311 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+07.07.2022 10:38:13
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 10:40:16 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 10:40:16 INFO  : 
+Transferred:   	   92.676 KiB / 92.676 KiB, 100%, 9.267 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:        11.2s
+
+07.07.2022 10:39:45
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 10:40:59 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 10:40:59 INFO  : 
+Transferred:   	   18.755 KiB / 18.755 KiB, 100%, 18.737 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         4.0s
+
+07.07.2022 10:40:36
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+07.07.2022 11:37:37
+Web Scrapping Successful
+2022/07/07 11:40:03 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:40:03 INFO  : 
+Transferred:   	   19.200 KiB / 19.200 KiB, 100%, 19.183 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         3.5s
+
+07.07.2022 11:39:39
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+07.07.2022 11:42:21
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+07.07.2022 11:42:21
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+2022/07/07 11:42:48 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:42:48 INFO  : 
+Transferred:   	   19.422 KiB / 19.422 KiB, 100%, 19.420 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+No price change
+----------------------------------------------------------------------
+07.07.2022 11:45:08
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+07.07.2022 11:45:08
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+07.07.2022 11:45:08
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+07.07.2022 11:45:08
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+2022/07/07 11:45:33 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:45:33 INFO  : 
+Transferred:   	   19.644 KiB / 19.644 KiB, 100%, 19.639 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.0s
+
+No price change
+----------------------------------------------------------------------
+2022/07/07 11:46:21 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:46:21 INFO  : 
+Transferred:   	   19.863 KiB / 19.863 KiB, 100%, 19.850 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         1.9s
+
+07.07.2022 11:45:59
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+07.07.2022 11:48:17
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+07.07.2022 11:48:17
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+07.07.2022 11:48:17
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+07.07.2022 11:48:17
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+2022/07/07 11:48:41 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:48:41 INFO  : 
+Transferred:   	   20.082 KiB / 20.082 KiB, 100%, 20.071 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.0s
+
+No price change
+----------------------------------------------------------------------
+2022/07/07 11:51:07 ERROR : 2022_dev.xlsx: Failed to copy: Patch "https://www.googleapis.com/upload/drive/v3/files/1yQjNK9WAMApqT43yN43TBzlQ2MNbrD0r?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 20791 to 20836)
+2022/07/07 11:51:07 ERROR : Attempt 1/3 failed with 1 errors and: Patch "https://www.googleapis.com/upload/drive/v3/files/1yQjNK9WAMApqT43yN43TBzlQ2MNbrD0r?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 20791 to 20836)
+2022/07/07 11:51:07 ERROR : 2022_dev.xlsx: Failed to copy: Patch "https://www.googleapis.com/upload/drive/v3/files/1yQjNK9WAMApqT43yN43TBzlQ2MNbrD0r?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 20836 to 20791)
+2022/07/07 11:51:07 ERROR : Attempt 2/3 failed with 1 errors and: Patch "https://www.googleapis.com/upload/drive/v3/files/1yQjNK9WAMApqT43yN43TBzlQ2MNbrD0r?alt=json&fields=id%2Cname%2Csize%2Cmd5Checksum%2Ctrashed%2CexplicitlyTrashed%2CmodifiedTime%2CcreatedTime%2CmimeType%2Cparents%2CwebViewLink%2CshortcutDetails%2CexportLinks&keepRevisionForever=false&prettyPrint=false&supportsAllDrives=true&uploadType=multipart": googleapi: Copy failed: can't copy - source file is being updated (size changed from 20836 to 20791)
+2022/07/07 11:51:09 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:51:09 INFO  : 
+Transferred:   	   20.304 KiB / 20.304 KiB, 100%, 20.295 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.1s
+
+2022/07/07 11:51:12 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:51:12 ERROR : Attempt 3/3 succeeded
+2022/07/07 11:51:12 INFO  : 
+Transferred:   	   20.304 KiB / 20.304 KiB, 100%, 4.061 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         5.7s
+
+2022/07/07 11:51:15 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:51:15 INFO  : 
+Transferred:   	   20.304 KiB / 20.304 KiB, 100%, 3.381 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         7.5s
+
+07.07.2022 11:50:43
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+07.07.2022 11:50:43
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 11:51:17 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:51:17 INFO  : 
+Transferred:   	   20.304 KiB / 20.304 KiB, 100%, 2.537 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         9.9s
+
+07.07.2022 11:50:43
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+07.07.2022 11:50:43
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
+2022/07/07 11:54:13 INFO  : 2022_dev.xlsx: Copied (replaced existing)
+2022/07/07 11:54:13 INFO  : 
+Transferred:   	   20.525 KiB / 20.525 KiB, 100%, 20.521 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.0s
+
+07.07.2022 11:53:51
+Web Scrapping Successful
+Information for rest day - 23.09.2022
+No price change
+----------------------------------------------------------------------
